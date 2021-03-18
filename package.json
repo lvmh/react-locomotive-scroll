@@ -1,18 +1,19 @@
 {
-  "name": "react-locomotive-scroll",
+  "name": "react-locomotive-scroll-polyfilled",
   "version": "0.1.7",
-  "description": "A locomotive-scroll React wrapper",
+  "description": "A locomotive-scroll React wrapper - but polyfilled",
   "main": "module/index.js",
   "module": "module/index.js",
   "typings": "module/index.d.ts",
-  "repository": "git@github.com:toinelin/react-locomotive-scroll.git",
+  "repository": "git@github.com:lvmh/react-locomotive-scroll.git",
   "author": "Antoine <contact@antoinelin.com>",
   "license": "MIT",
   "keywords": [
     "react",
     "locomotive-scroll",
     "smooth-scroll",
-    "typescript"
+    "typescript",
+    "polyfill"
   ],
   "files": [
     "lib",
