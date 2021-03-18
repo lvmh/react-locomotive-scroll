@@ -1,6 +1,6 @@
 import { LocomotiveScrollOptions, Scroll } from 'locomotive-scroll'
 import { createContext, DependencyList, MutableRefObject, useEffect, useRef, useState } from 'react'
-import useResizeObserver from 'use-resize-observer'
+import useResizeObserver from "use-resize-observer/polyfilled"
 
 export interface LocomotiveScrollContextValue {
   scroll: Scroll | null
