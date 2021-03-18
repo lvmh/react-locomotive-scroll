@@ -1,5 +1,5 @@
 {
-  "name": "react-locomotive-scroll-polyfilled",
+  "name": "@hotelsoap/react-locomotive-scroll-polyfilled",
   "version": "0.1.7",
   "description": "A locomotive-scroll React wrapper - but polyfilled",
   "main": "module/index.js",
