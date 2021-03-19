@@ -1,3 +1,15 @@
+## [0.1.13](https://github.com/lvmh/react-locomotive-scroll/compare/0.1.7...0.1.13) (2021-03-18)
+
+## [0.1.12](https://github.com/lvmh/react-locomotive-scroll/compare/0.1.7...0.1.12) (2021-03-18)
+
+## [0.1.11](https://github.com/lvmh/react-locomotive-scroll/compare/0.1.7...0.1.11) (2021-03-18)
+
+## [0.1.10](https://github.com/lvmh/react-locomotive-scroll/compare/0.1.7...0.1.10) (2021-03-18)
+
+## [0.1.9](https://github.com/lvmh/react-locomotive-scroll/compare/0.1.7...0.1.9) (2021-03-18)
+
+## [0.1.8](https://github.com/lvmh/react-locomotive-scroll/compare/0.1.7...0.1.8) (2021-03-18)
+
 ## [0.1.7](https://github.com/toinelin/react-locomotive-scroll/compare/0.1.6...0.1.7) (2021-02-19)
 
 
